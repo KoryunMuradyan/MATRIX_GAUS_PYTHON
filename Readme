@@ -1,0 +1,2 @@
+run the script passing input file name as command line argument and as a result an output file named "output.txt" will be generatd
+then run the test "./test.py" and an result file containing the testing resaults will be generated
